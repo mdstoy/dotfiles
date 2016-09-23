@@ -1,0 +1,23 @@
+[user]
+	name = mdstoy
+	email = (email)
+
+[core]
+    editor = vim
+	excludesfile = ~/.gitignore
+
+[alias]
+	st = status
+	br = branch
+	co = checkout
+	ci = commit
+    gr = log --graph --oneline --decorate
+    up = remote update
+    pr = remote prune origin
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = true
+
