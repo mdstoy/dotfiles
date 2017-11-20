@@ -9,9 +9,6 @@ filetype plugin indent on
 set encoding=utf-8
 set fileencodings=utf-8,iso-2022-jp,euc-jp,sjis
 
-" plugin
-let g:miniBufExpCTabSwitchBufs=1
-
 " search
 set ignorecase
 set smartcase
