@@ -1,6 +1,6 @@
 [user]
-    name = mdstoy
-    email = (email)
+    name = (Please enter your name)
+    email = (Please enter your email)
 
 [core]
     editor = vim
